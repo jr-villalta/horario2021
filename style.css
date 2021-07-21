@@ -1,5 +1,9 @@
-.container-fluid{
+body{
     background-color: #222831;
     height: 100vh;
+}
+
+.container-fluid{
+    background-color: #222831;
     color: white;
 }
